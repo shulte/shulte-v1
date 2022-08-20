@@ -64,4 +64,4 @@ node_modules/
 
 # dotenv environment variables file
 .env
-build/static/css/main.c76de836.css
+build
